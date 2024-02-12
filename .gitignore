@@ -6,3 +6,5 @@ annotated_screenshot.png
 !docs/annotated_screenshot.png
 driver/UIED/data/output
 output
+driver_env
+launch.json
